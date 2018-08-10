@@ -1,2 +1,3 @@
 # Mir-DeepLearning
-Mir's Deep Learning Repo.
+This repository is created for educational purpose. <br/>
+Deep Learning in Python with TensorFlow and Keras libraries.
